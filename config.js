@@ -3,6 +3,7 @@
 var config = {};
 config.maxFileSize = '100'; // 100MB
 config.downloadFolder = './data/';
+
 config.rssLinks = ['http://vnexpress.net/rss/tin-moi-nhat.rss',
 					'http://vnexpress.net/rss/thoi-su.rss',
 					'http://vnexpress.net/rss/doi-song.rss',
