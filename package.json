@@ -1,0 +1,9 @@
+{
+	"name": "news-crawler",
+	"version": "0.0.0",
+
+	"dependencies": {
+		"xml2js": "0.2.2",
+		"feedparser": "0.19.2"
+	}
+}

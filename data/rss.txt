@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+  <channel>
+    <title>Số hóa - VnExpress RSS</title>
+    <description>VnExpress Vnexpress RSS</description>
+    <pubDate>Tue, 16 Sep 2014 13:55:16 +0700</pubDate>
+    <generator>Vnexpress.VnExpress.net:http://vnexpress.net/rss</generator>
+    <link>http://vnexpress.net/rss/so-hoa.rss</link>
+    <item>
+      <title>Apple có thể bán được 100 triệu iPhone trong nửa cuối 2014</title>
+      <description><![CDATA[<a href="http://sohoa.vnexpress.net/tin-tuc/doi-song-so/apple-co-the-ban-duoc-100-trieu-iphone-trong-nua-cuoi-2014-3080141.html"><img width=130 height=100 src="http://s.f5.img.vnexpress.net/2014/09/16/iPhone-1-6358-1410837475_180x108.jpg" ></a></br>Thành công kỷ lục của iPhone 6 và iPhone 6 Plus khiến các nhà phân tích tin tưởng Apple sẽ có hai quý cuối năm ấn tượng.]]></description>
+      <pubDate>Tue, 16 Sep 2014 10:25:26 +0700</pubDate>
+      <link>http://sohoa.vnexpress.net/tin-tuc/doi-song-so/apple-co-the-ban-duoc-100-trieu-iphone-trong-nua-cuoi-2014-3080141.html</link>
+      <guid>http://sohoa.vnexpress.net/tin-tuc/doi-song-so/apple-co-the-ban-duoc-100-trieu-iphone-trong-nua-cuoi-2014-3080141.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>6 lựa chọn smartphone Android thay thế iPhone 6</title>
+      <description><![CDATA[<a href="http://sohoa.vnexpress.net/photo/dien-thoai/6-lua-chon-smartphone-android-thay-the-iphone-6-3079669.html"><img width=130 height=100 src="http://s.f7.img.vnexpress.net/2014/09/15/6-lua-chon-smartphone-android-thay-the-iphone-6-1410771087_180x108.jpg" ></a></br>Thay vì iPhone màn hình lớn, người dùng có thể mua Galaxy S5, One M8, LG G3 hay các smartphone mới ra mắt như Moto X 2014, Xperia Z3 hoặc bộ đôi Galaxy Note 4, Note Edge.]]></description>
+      <pubDate>Tue, 16 Sep 2014 08:00:00 +0700</pubDate>
+      <link>http://sohoa.vnexpress.net/photo/dien-thoai/6-lua-chon-smartphone-android-thay-the-iphone-6-3079669.html</link>
+      <guid>http://sohoa.vnexpress.net/photo/dien-thoai/6-lua-chon-smartphone-android-thay-the-iphone-6-3079669.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Tư vấn phần mềm edit phim phù hợp cấu hình máy</title>
+      <description><![CDATA[<a href="http://sohoa.vnexpress.net/tin-tuc/cong-dong/hoi-dap/tu-van-phan-mem-edit-phim-phu-hop-cau-hinh-may-3080281.html"><img width=130 height=100 src="http://s.f7.img.vnexpress.net/2014/09/16/customizableTemplates-3702-1410849693_180x108.jpg" ></a></br>Em có ý định làm vài phim ngắn nhưng phân vân chưa biết chọn phần mềm dựng nào cho hợp lý.]]></description>
+      <pubDate>Tue, 16 Sep 2014 13:41:33 +0700</pubDate>
+      <link>http://sohoa.vnexpress.net/tin-tuc/cong-dong/hoi-dap/tu-van-phan-mem-edit-phim-phu-hop-cau-hinh-may-3080281.html</link>
+      <guid>http://sohoa.vnexpress.net/tin-tuc/cong-dong/hoi-dap/tu-van-phan-mem-edit-phim-phu-hop-cau-hinh-may-3080281.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Bản thử nghiệm Windows 9 có thể phát hành ngày 30/9</title>
+      <description><![CDATA[<a href="http://sohoa.vnexpress.net/tin-tuc/san-pham/phan-mem/ban-thu-nghiem-windows-9-co-the-phat-hanh-ngay-30-9-3080091.html"><img width=130 height=100 src="http://s.f6.img.vnexpress.net/2014/09/16/windows9-1410835751_180x108.png" ></a></br>Hệ điều hành phiên bản mới của Microsoft dự kiến tung ra cho các lập trình viên với nhiều thay đổi về giao diện, bổ sung trợ lý giọng nói Cortana và hoạt động đa cửa sổ.]]></description>
+      <pubDate>Tue, 16 Sep 2014 10:41:11 +0700</pubDate>
+      <link>http://sohoa.vnexpress.net/tin-tuc/san-pham/phan-mem/ban-thu-nghiem-windows-9-co-the-phat-hanh-ngay-30-9-3080091.html</link>
+      <guid>http://sohoa.vnexpress.net/tin-tuc/san-pham/phan-mem/ban-thu-nghiem-windows-9-co-the-phat-hanh-ngay-30-9-3080091.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Đánh giá Wing Iris 50 - smartphone 4 nhân giá hấp dẫn</title>
+      <description><![CDATA[<a href="http://sohoa.vnexpress.net/tin-tuc/san-pham/dien-thoai/danh-gia-wing-iris-50-smartphone-4-nhan-gia-hap-dan-3074603.html"><img width=130 height=100 src="http://s.f8.img.vnexpress.net/2014/09/16/IMG-1260-JPG-8416-1410830762_180x108.jpg" ></a></br>Smartphone Android của Wingcall sở hữu nhiều trang bị tốt so với giá bán 3 triệu đồng, như màn hình HD IPS 5 inch hay vi xử lý 4 nhân tốc độ 1,3 GHz.]]></description>
+      <pubDate>Tue, 16 Sep 2014 09:00:00 +0700</pubDate>
+      <link>http://sohoa.vnexpress.net/tin-tuc/san-pham/dien-thoai/danh-gia-wing-iris-50-smartphone-4-nhan-gia-hap-dan-3074603.html</link>
+      <guid>http://sohoa.vnexpress.net/tin-tuc/san-pham/dien-thoai/danh-gia-wing-iris-50-smartphone-4-nhan-gia-hap-dan-3074603.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Vega Iron2 được bán chính hãng tại Việt Nam</title>
+      <description><![CDATA[<a href="http://sohoa.vnexpress.net/tin-tuc/san-pham/vega-iron2-duoc-ban-chinh-hang-tai-viet-nam-3079725.html"><img width=130 height=100 src="http://s.f6.img.vnexpress.net/2014/09/15/anh-2-jpg-15-9-201450-64363897-3438-9279-1410769270_180x108.jpeg" ></a></br>Hãng công nghệ Pantech (Hàn Quốc) cho biết mẫu smartphone Vega Iron 2 đã được bán chính hãng tại Việt Nam với giá 12,2 triệu đồng.]]></description>
+      <pubDate>Tue, 16 Sep 2014 08:00:00 +0700</pubDate>
+      <link>http://sohoa.vnexpress.net/tin-tuc/san-pham/vega-iron2-duoc-ban-chinh-hang-tai-viet-nam-3079725.html</link>
+      <guid>http://sohoa.vnexpress.net/tin-tuc/san-pham/vega-iron2-duoc-ban-chinh-hang-tai-viet-nam-3079725.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Ảnh thực tế điện thoại dùng ống kính Leica của Panasonic</title>
+      <description><![CDATA[<a href="http://sohoa.vnexpress.net/photo/may-anh/anh-thuc-te-dien-thoai-dung-ong-kinh-leica-cua-panasonic-3079972.html"><img width=130 height=100 src="http://s.f8.img.vnexpress.net/2014/09/16/vs09-15-1310s-1-verge-super-wide-1410800403_180x108.jpg" ></a></br>Lumix CM1 sở hữu màn hình 4,7 inch Full HD, chạy Android 4.4 nhưng camera nổi bật với cảm biến một inch và ống kính Leica màn trập cơ học.]]></description>
+      <pubDate>Tue, 16 Sep 2014 00:08:57 +0700</pubDate>
+      <link>http://sohoa.vnexpress.net/photo/may-anh/anh-thuc-te-dien-thoai-dung-ong-kinh-leica-cua-panasonic-3079972.html</link>
+      <guid>http://sohoa.vnexpress.net/photo/may-anh/anh-thuc-te-dien-thoai-dung-ong-kinh-leica-cua-panasonic-3079972.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Máy tính không bắt được Wi-Fi</title>
+      <description><![CDATA[<a href="http://sohoa.vnexpress.net/tin-tuc/cong-dong/hoi-dap/may-tinh-khong-bat-duoc-wi-fi-3080052.html"><img width=130 height=100 src="http://s.f7.img.vnexpress.net/2014/09/16/coffee-shop-wifi-laptop-718248-4584-1410833496_180x108.jpg" ></a></br>Máy tính của tôi trước bắt Wi-Fi rất tốt, từ khi cài Words 2014 thì không vào Wi-Fi được nữa.]]></description>
+      <pubDate>Tue, 16 Sep 2014 09:11:35 +0700</pubDate>
+      <link>http://sohoa.vnexpress.net/tin-tuc/cong-dong/hoi-dap/may-tinh-khong-bat-duoc-wi-fi-3080052.html</link>
+      <guid>http://sohoa.vnexpress.net/tin-tuc/cong-dong/hoi-dap/may-tinh-khong-bat-duoc-wi-fi-3080052.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Tìm điện thoại đẹp, pin bền</title>
+      <description><![CDATA[<a href="http://sohoa.vnexpress.net/tin-tuc/cong-dong/hoi-dap/tim-dien-thoai-dep-pin-ben-3079846.html"><img width=130 height=100 src="http://s.f8.img.vnexpress.net/2014/09/15/Samsung-Galaxy-Note-II-vs-iPho-4133-3260-1410772838_180x108.jpg" ></a></br>Dự định ban đầu của em là mua iPhone hoặc iPad, nhưng anh họ em lại khen Samsung Note 3/4 nên đang phân vân.]]></description>
+      <pubDate>Tue, 16 Sep 2014 07:00:00 +0700</pubDate>
+      <link>http://sohoa.vnexpress.net/tin-tuc/cong-dong/hoi-dap/tim-dien-thoai-dep-pin-ben-3079846.html</link>
+      <guid>http://sohoa.vnexpress.net/tin-tuc/cong-dong/hoi-dap/tim-dien-thoai-dep-pin-ben-3079846.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Canon 7D Mark II trình làng với hệ thống lấy nét 'khủng'</title>
+      <description><![CDATA[<a href="http://sohoa.vnexpress.net/tin-tuc/san-pham/may-anh/canon-7d-mark-ii-trinh-lang-voi-he-thong-lay-net-khung-3079962.html"><img width=130 height=100 src="http://s.f8.img.vnexpress.net/2014/09/15/1672751331-3829-1410798998_180x108.jpg" ></a></br>Model 7D thế hệ thứ 2 có tới 65 điểm lấy nét cross-type, tốc độ chụp liên tiếp 10 khung hình mỗi giây và ISO tối đa là 51.200. ]]></description>
+      <pubDate>Mon, 15 Sep 2014 23:37:11 +0700</pubDate>
+      <link>http://sohoa.vnexpress.net/tin-tuc/san-pham/may-anh/canon-7d-mark-ii-trinh-lang-voi-he-thong-lay-net-khung-3079962.html</link>
+      <guid>http://sohoa.vnexpress.net/tin-tuc/san-pham/may-anh/canon-7d-mark-ii-trinh-lang-voi-he-thong-lay-net-khung-3079962.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Máy ảnh có thể gọi điện, dùng ống kính Leica của Panasonic</title>
+      <description><![CDATA[<a href="http://sohoa.vnexpress.net/tin-tuc/san-pham/may-anh/may-anh-co-the-goi-dien-dung-ong-kinh-leica-cua-panasonic-3079966.html"><img width=130 height=100 src="http://s.f8.img.vnexpress.net/2014/09/15/pana1-1252-1410800324_180x108.jpg" ></a></br>Lumix CM1 sở hữu màn hình 4,7 inch Full HD, chạy Android 4.4 nhưng camera nổi bật với cảm biến một inch và ống kính Leica màn trập cơ học. ]]></description>
+      <pubDate>Mon, 15 Sep 2014 23:57:07 +0700</pubDate>
+      <link>http://sohoa.vnexpress.net/tin-tuc/san-pham/may-anh/may-anh-co-the-goi-dien-dung-ong-kinh-leica-cua-panasonic-3079966.html</link>
+      <guid>http://sohoa.vnexpress.net/tin-tuc/san-pham/may-anh/may-anh-co-the-goi-dien-dung-ong-kinh-leica-cua-panasonic-3079966.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Canon thêm hai máy ảnh cảm biến một inch và chụp selfie</title>
+      <description><![CDATA[<a href="http://sohoa.vnexpress.net/tin-tuc/san-pham/may-anh/canon-them-hai-may-anh-cam-bien-mot-inch-va-chup-selfie-3079974.html"><img width=130 height=100 src="http://s.f7.img.vnexpress.net/2014/09/16/4466356323-4519-1410803386_180x108.jpg" ></a></br>Canon G7 X sẽ là đối thủ của Sony RX100 và Nikon 1 với cảm biến 1 inch trong khi Powershot N2 với kiểu dáng vuông độc đáo hỗ trợ chụp selfie tốt nhờ màn hình lật 180 độ. ]]></description>
+      <pubDate>Mon, 15 Sep 2014 23:51:01 +0700</pubDate>
+      <link>http://sohoa.vnexpress.net/tin-tuc/san-pham/may-anh/canon-them-hai-may-anh-cam-bien-mot-inch-va-chup-selfie-3079974.html</link>
+      <guid>http://sohoa.vnexpress.net/tin-tuc/san-pham/may-anh/canon-them-hai-may-anh-cam-bien-mot-inch-va-chup-selfie-3079974.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title></title>
+      <description><![CDATA[No Description]]></description>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Có nên mua iPhone 5 vào lúc này không?</title>
+      <description><![CDATA[<a href="http://sohoa.vnexpress.net/tin-tuc/cong-dong/hoi-dap/co-nen-mua-iphone-5-vao-luc-nay-khong-3079840.html"><img width=130 height=100 src="http://s.f5.img.vnexpress.net/2014/09/15/302269-2387451423879-151110041-2267-7782-1410772339_180x108.jpg" ></a></br>Mình đang xài điện thoại Android và đang có dự định chuyển sang iOS nên tính mua iPhone.]]></description>
+      <pubDate>Mon, 15 Sep 2014 19:00:00 +0700</pubDate>
+      <link>http://sohoa.vnexpress.net/tin-tuc/cong-dong/hoi-dap/co-nen-mua-iphone-5-vao-luc-nay-khong-3079840.html</link>
+      <guid>http://sohoa.vnexpress.net/tin-tuc/cong-dong/hoi-dap/co-nen-mua-iphone-5-vao-luc-nay-khong-3079840.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Nokia Lumia 830 có giá 7,99 triệu đồng</title>
+      <description><![CDATA[<a href="http://sohoa.vnexpress.net/tin-tuc/san-pham/dien-thoai/nokia-lumia-830-co-gia-7-99-trieu-dong-3079807.html"><img width=130 height=100 src="http://s.f6.img.vnexpress.net/2014/09/15/IMG-1334-JPG-7027-1410770730_180x108.jpg" ></a></br>Chiếc Windows Phone thiết kế cao cấp, camera PureView 10 megapixel của Microsoft sẽ được bán ra ở Việt Nam vào cuối tháng 9 hoặc đầu tháng 10 tới.]]></description>
+      <pubDate>Mon, 15 Sep 2014 15:53:04 +0700</pubDate>
+      <link>http://sohoa.vnexpress.net/tin-tuc/san-pham/dien-thoai/nokia-lumia-830-co-gia-7-99-trieu-dong-3079807.html</link>
+      <guid>http://sohoa.vnexpress.net/tin-tuc/san-pham/dien-thoai/nokia-lumia-830-co-gia-7-99-trieu-dong-3079807.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Bộ đôi iMac và Apple Cinema mạ vàng tại Việt Nam</title>
+      <description><![CDATA[<a href="http://sohoa.vnexpress.net/photo/may-tinh-de-ban/bo-doi-imac-va-apple-cinema-ma-vang-tai-viet-nam-3079710.html"><img width=130 height=100 src="http://s.f7.img.vnexpress.net/2014/09/15/MG-1268-1410759158_180x108.jpg" ></a></br>Máy tính để bàn và màn hình của Apple được mạ vàng 17K và bọc da cá sấu đi kèm các phụ kiện như bàn phím, chuột được bán với giá 500 triệu đồng.]]></description>
+      <pubDate>Mon, 15 Sep 2014 14:51:38 +0700</pubDate>
+      <link>http://sohoa.vnexpress.net/photo/may-tinh-de-ban/bo-doi-imac-va-apple-cinema-ma-vang-tai-viet-nam-3079710.html</link>
+      <guid>http://sohoa.vnexpress.net/photo/may-tinh-de-ban/bo-doi-imac-va-apple-cinema-ma-vang-tai-viet-nam-3079710.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Tim Cook lên tiếng về iPhone 6 và Apple Watch</title>
+      <description><![CDATA[<a href="http://sohoa.vnexpress.net/tin-tuc/doi-song-so/tim-cook-len-tieng-ve-iphone-6-va-apple-watch-3079627.html"><img width=130 height=100 src="http://s.f8.img.vnexpress.net/2014/09/15/Cook-7693-1410752891_180x108.jpg" ></a></br>CEO Apple nói việc sản xuất smartphpone màn hình to không phải điều quá khó, nhưng hãng này chỉ công bố khi thấy sản phẩm đó đã thực sự tốt hơn.]]></description>
+      <pubDate>Mon, 15 Sep 2014 13:00:00 +0700</pubDate>
+      <link>http://sohoa.vnexpress.net/tin-tuc/doi-song-so/tim-cook-len-tieng-ve-iphone-6-va-apple-watch-3079627.html</link>
+      <guid>http://sohoa.vnexpress.net/tin-tuc/doi-song-so/tim-cook-len-tieng-ve-iphone-6-va-apple-watch-3079627.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Điện thoại Android One đầu tiên có giá khoảng 2,5 triệu đồng</title>
+      <description><![CDATA[<a href="http://sohoa.vnexpress.net/tin-tuc/san-pham/dien-thoai/dien-thoai-android-one-dau-tien-co-gia-khoang-2-5-trieu-dong-3079608.html"><img width=130 height=100 src="http://s.f7.img.vnexpress.net/2014/09/15/spiceandroidonedreamunomi498-1410751504_180x108.jpg" ></a></br>Dream UNO Mi-498 được sản xuất theo dự án smartphone giá rẻ của Google với cấu hình gồm bộ xử lý bốn nhân, RAM 1 GB, màn hình 4,5 inch và chạy bản Android KitKat 4.4.4.]]></description>
+      <pubDate>Mon, 15 Sep 2014 11:31:38 +0700</pubDate>
+      <link>http://sohoa.vnexpress.net/tin-tuc/san-pham/dien-thoai/dien-thoai-android-one-dau-tien-co-gia-khoang-2-5-trieu-dong-3079608.html</link>
+      <guid>http://sohoa.vnexpress.net/tin-tuc/san-pham/dien-thoai/dien-thoai-android-one-dau-tien-co-gia-khoang-2-5-trieu-dong-3079608.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>iPhone 5S mất giá vì bộ đôi iPhone 6</title>
+      <description><![CDATA[<a href="http://sohoa.vnexpress.net/tin-tuc/san-pham/dien-thoai/iphone-5s-mat-gia-vi-bo-doi-iphone-6-3079552.html"><img width=130 height=100 src="http://s.f8.img.vnexpress.net/2014/09/15/apple-iphone-6-plus-4-2558-1410751068_180x108.jpg" ></a></br>Giá iPhone 5S ở thị trường xách tay vừa được nhiều cửa hàng điều chỉnh giảm tới 500.000 đồng cho phiên bản 16 GB, ít ngày sau khi iPhone 6 và 6 Plus ra mắt.]]></description>
+      <pubDate>Mon, 15 Sep 2014 10:43:54 +0700</pubDate>
+      <link>http://sohoa.vnexpress.net/tin-tuc/san-pham/dien-thoai/iphone-5s-mat-gia-vi-bo-doi-iphone-6-3079552.html</link>
+      <guid>http://sohoa.vnexpress.net/tin-tuc/san-pham/dien-thoai/iphone-5s-mat-gia-vi-bo-doi-iphone-6-3079552.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Cần tư vấn cấu hình CPU tầm 50 triệu đồng để học thiết kế đồ họa</title>
+      <description><![CDATA[<a href="http://sohoa.vnexpress.net/tin-tuc/cong-dong/hoi-dap/can-tu-van-cau-hinh-cpu-tam-50-trieu-dong-de-hoc-thiet-ke-do-hoa-3079836.html"><img width=130 height=100 src="http://s.f8.img.vnexpress.net/2014/09/15/cpu9-3476-1410772149_180x108.jpg" ></a></br>Em muốn ghép 3 màn hình. Các chuyên gia cho em ý kiến.]]></description>
+      <pubDate>Mon, 15 Sep 2014 17:00:00 +0700</pubDate>
+      <link>http://sohoa.vnexpress.net/tin-tuc/cong-dong/hoi-dap/can-tu-van-cau-hinh-cpu-tam-50-trieu-dong-de-hoc-thiet-ke-do-hoa-3079836.html</link>
+      <guid>http://sohoa.vnexpress.net/tin-tuc/cong-dong/hoi-dap/can-tu-van-cau-hinh-cpu-tam-50-trieu-dong-de-hoc-thiet-ke-do-hoa-3079836.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Hitachi Content Platform quản lý dữ liệu 'đám mây'</title>
+      <description><![CDATA[<a href="http://sohoa.vnexpress.net/tin-tuc/doi-song-so/hitachi-content-platform-quan-ly-du-lieu-dam-may-3079664.html"><img width=130 height=100 src="http://s.f6.img.vnexpress.net/2014/09/15/1-jpg-15-9-201449-8643-1410769054_180x108.jpeg" ></a></br>Bộ sản phẩm Hitachi Content Platform (HCP) hỗ trợ doanh nghiệp nâng cao khả năng di động hóa của các nhân viên và cải thiện năng suất lao động mọi lúc mọi nơi với bất kỳ thiết bị nào.]]></description>
+      <pubDate>Mon, 15 Sep 2014 16:00:00 +0700</pubDate>
+      <link>http://sohoa.vnexpress.net/tin-tuc/doi-song-so/hitachi-content-platform-quan-ly-du-lieu-dam-may-3079664.html</link>
+      <guid>http://sohoa.vnexpress.net/tin-tuc/doi-song-so/hitachi-content-platform-quan-ly-du-lieu-dam-may-3079664.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Smartphone Galaxy tầm trung chuyên chụp ảnh selfie</title>
+      <description><![CDATA[<a href="http://sohoa.vnexpress.net/tin-tuc/san-pham/dien-thoai/smartphone-galaxy-tam-trung-chuyen-chup-anh-selfie-3079640.html"><img width=130 height=100 src="http://s.f8.img.vnexpress.net/2014/09/15/Screen-Shot-2014-09-15-at-11-0-3500-3407-1410754601_180x108.jpg" ></a></br>Cạnh tranh với Sony và HTC, Samsung chuẩn bị tung ra thị trường Việt Nam Galaxy Grand Prime G530 với camera trước 5 megapixel.]]></description>
+      <pubDate>Mon, 15 Sep 2014 15:30:00 +0700</pubDate>
+      <link>http://sohoa.vnexpress.net/tin-tuc/san-pham/dien-thoai/smartphone-galaxy-tam-trung-chuyen-chup-anh-selfie-3079640.html</link>
+      <guid>http://sohoa.vnexpress.net/tin-tuc/san-pham/dien-thoai/smartphone-galaxy-tam-trung-chuyen-chup-anh-selfie-3079640.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Oppo sắp ra phablet vỏ nhôm camera xoay lạ mắt</title>
+      <description><![CDATA[<a href="http://sohoa.vnexpress.net/tin-tuc/san-pham/dien-thoai/oppo-sap-ra-phablet-vo-nhom-camera-xoay-la-mat-3079603.html"><img width=130 height=100 src="http://s.f5.img.vnexpress.net/2014/09/15/Oppo-N3-2_1410752451_1410752514_180x108.jpg" ></a></br>N3 được cho là phiên bản kế tiếp của mẫu phablet Android màn hình 6 inch Full HD Oppo N1, sẽ ra mắt trong sự kiện diễn ra ở Trung Quốc cuối tháng 10 tới.]]></description>
+      <pubDate>Mon, 15 Sep 2014 12:00:00 +0700</pubDate>
+      <link>http://sohoa.vnexpress.net/tin-tuc/san-pham/dien-thoai/oppo-sap-ra-phablet-vo-nhom-camera-xoay-la-mat-3079603.html</link>
+      <guid>http://sohoa.vnexpress.net/tin-tuc/san-pham/dien-thoai/oppo-sap-ra-phablet-vo-nhom-camera-xoay-la-mat-3079603.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Ampli nào ghép với loa Pioneer CS7100 hợp nhất</title>
+      <description><![CDATA[<a href="http://sohoa.vnexpress.net/tin-tuc/cong-dong/hoi-dap/ampli-nao-ghep-voi-loa-pioneer-cs7100-hop-nhat-3079576.html"><img width=130 height=100 src="http://s.f6.img.vnexpress.net/2014/09/15/s-570-JPG-6194-1410750386_180x108.jpg" ></a></br>Sở thích của tôi là nhạc vàng.]]></description>
+      <pubDate>Mon, 15 Sep 2014 10:30:00 +0700</pubDate>
+      <link>http://sohoa.vnexpress.net/tin-tuc/cong-dong/hoi-dap/ampli-nao-ghep-voi-loa-pioneer-cs7100-hop-nhat-3079576.html</link>
+      <guid>http://sohoa.vnexpress.net/tin-tuc/cong-dong/hoi-dap/ampli-nao-ghep-voi-loa-pioneer-cs7100-hop-nhat-3079576.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Nikon D750 - máy full-frame gọn nhẹ, chụp tối tốt</title>
+      <description><![CDATA[<a href="http://sohoa.vnexpress.net/photo/may-anh/nikon-d750-may-full-frame-gon-nhe-chup-toi-tot-3079500.html"><img width=130 height=100 src="http://s.f6.img.vnexpress.net/2014/09/15/nikon4-verge-super-wide-1410745574_180x108.jpg" ></a></br>D750 thừa hưởng hệ thống lấy nét cao cấp với 51 điểm từ D810 cùng khả năng quay video Full HD 60p và màn hình lật linh hoạt.]]></description>
+      <pubDate>Mon, 15 Sep 2014 10:00:00 +0700</pubDate>
+      <link>http://sohoa.vnexpress.net/photo/may-anh/nikon-d750-may-full-frame-gon-nhe-chup-toi-tot-3079500.html</link>
+      <guid>http://sohoa.vnexpress.net/photo/may-anh/nikon-d750-may-full-frame-gon-nhe-chup-toi-tot-3079500.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Bộ đôi phablet Full HD giá tầm 7 triệu đồng của Philips</title>
+      <description><![CDATA[<a href="http://sohoa.vnexpress.net/tin-tuc/san-pham/dien-thoai/bo-doi-phablet-full-hd-gia-tam-7-trieu-dong-cua-philips-3079462.html"><img width=130 height=100 src="http://s.f8.img.vnexpress.net/2014/09/15/Philips-I928-4435-1410746257_180x108.jpg" ></a></br>Philips I908 và Philips I928 với màn hình Full HD lớn 5 inch và 6 inch bắt đầu bán ở Việt Nam trong tháng 9 với giá lần lượt 6,99 và 7,99 triệu đồng.]]></description>
+      <pubDate>Mon, 15 Sep 2014 09:01:53 +0700</pubDate>
+      <link>http://sohoa.vnexpress.net/tin-tuc/san-pham/dien-thoai/bo-doi-phablet-full-hd-gia-tam-7-trieu-dong-cua-philips-3079462.html</link>
+      <guid>http://sohoa.vnexpress.net/tin-tuc/san-pham/dien-thoai/bo-doi-phablet-full-hd-gia-tam-7-trieu-dong-cua-philips-3079462.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Ảnh thực tế smartphone Wing Iris 50</title>
+      <description><![CDATA[<a href="http://sohoa.vnexpress.net/tin-tuc/san-pham/dien-thoai/anh-thuc-te-smartphone-wing-iris-50-3072674.html"><img width=130 height=100 src="http://s.f7.img.vnexpress.net/2014/08/30/img-1520-jpg-29-8-201457-34361-4271-5322-1409364383_180x108.jpeg" ></a></br>Smartphone của hãng Wing Mobile nằm trong phân khúc bình dân nhưng được thiết kế thời trang cùng cấu hình mạnh mẽ.  ]]></description>
+      <pubDate>Mon, 15 Sep 2014 09:00:00 +0700</pubDate>
+      <link>http://sohoa.vnexpress.net/tin-tuc/san-pham/dien-thoai/anh-thuc-te-smartphone-wing-iris-50-3072674.html</link>
+      <guid>http://sohoa.vnexpress.net/tin-tuc/san-pham/dien-thoai/anh-thuc-te-smartphone-wing-iris-50-3072674.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Giúp chỉnh camera Nokia 1520 thêm sáng</title>
+      <description><![CDATA[<a href="http://sohoa.vnexpress.net/tin-tuc/cong-dong/hoi-dap/giup-chinh-camera-nokia-1520-them-sang-3079455.html"><img width=130 height=100 src="http://s.f8.img.vnexpress.net/2014/09/15/a453ba4e6beea4fab88fb5f2e9416d-7149-7846-1410746279_180x108.jpg" ></a></br>Sao mình chụp nó không được sáng mà có vẻ như bị ám vàng hơi tối?]]></description>
+      <pubDate>Mon, 15 Sep 2014 08:57:59 +0700</pubDate>
+      <link>http://sohoa.vnexpress.net/tin-tuc/cong-dong/hoi-dap/giup-chinh-camera-nokia-1520-them-sang-3079455.html</link>
+      <guid>http://sohoa.vnexpress.net/tin-tuc/cong-dong/hoi-dap/giup-chinh-camera-nokia-1520-them-sang-3079455.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Ảnh thực tế BlackBerry Classic - bản kế nhiệm của Bold 9900</title>
+      <description><![CDATA[<a href="http://sohoa.vnexpress.net/photo/dien-thoai/anh-thuc-te-blackberry-classic-ban-ke-nhiem-cua-bold-9900-3079463.html"><img width=130 height=100 src="http://s.f8.img.vnexpress.net/2014/09/15/anh-thuc-te-blackberry-classic-ban-ke-nhiem-cua-bold-9900-1410745200_180x108.png" ></a></br>BlackBerry Classic sở hữu màn hình cảm ứng kết hợp bàn phím QWERTY kèm theo dãy phím chức năng và trackpad nhưng chạy OS 10 với nhiều nâng cấp về cấu hình.]]></description>
+      <pubDate>Mon, 15 Sep 2014 08:52:17 +0700</pubDate>
+      <link>http://sohoa.vnexpress.net/photo/dien-thoai/anh-thuc-te-blackberry-classic-ban-ke-nhiem-cua-bold-9900-3079463.html</link>
+      <guid>http://sohoa.vnexpress.net/photo/dien-thoai/anh-thuc-te-blackberry-classic-ban-ke-nhiem-cua-bold-9900-3079463.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Nhiều sản phẩm mới quy tụ tại Asus Expo 2014</title>
+      <description><![CDATA[<a href="http://sohoa.vnexpress.net/photo/doi-song-so/nhieu-san-pham-moi-quy-tu-tai-asus-expo-2014-3079122.html"><img width=130 height=100 src="http://s.f6.img.vnexpress.net/2014/09/13/nhieu-san-pham-moi-quy-tu-tai-asus-expo-2014-1410598912_180x108.jpg" ></a></br>Đồng hồ Zenwatch, máy tính Transformer Book V, máy tính bảng MeMO Pad 7 là những sản phẩm nổi bật tại triển lãm Asus Expo 2014.]]></description>
+      <pubDate>Mon, 15 Sep 2014 08:13:05 +0700</pubDate>
+      <link>http://sohoa.vnexpress.net/photo/doi-song-so/nhieu-san-pham-moi-quy-tu-tai-asus-expo-2014-3079122.html</link>
+      <guid>http://sohoa.vnexpress.net/photo/doi-song-so/nhieu-san-pham-moi-quy-tu-tai-asus-expo-2014-3079122.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Ảnh thực tế Nokia Lumia 830 ở Việt Nam</title>
+      <description><![CDATA[<a href="http://sohoa.vnexpress.net/photo/dien-thoai/anh-thuc-te-nokia-lumia-830-o-viet-nam-3079805.html"><img width=130 height=100 src="http://s.f7.img.vnexpress.net/2014/09/15/IMG-1365-1410769587_180x108.jpg" ></a></br>Lấy cảm hứng thiết kế cứng cáp giống Lumia 930 nhưng Lumia 830 mỏng hơn nhiều.]]></description>
+      <pubDate>Mon, 15 Sep 2014 15:52:22 +0700</pubDate>
+      <link>http://sohoa.vnexpress.net/photo/dien-thoai/anh-thuc-te-nokia-lumia-830-o-viet-nam-3079805.html</link>
+      <guid>http://sohoa.vnexpress.net/photo/dien-thoai/anh-thuc-te-nokia-lumia-830-o-viet-nam-3079805.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Ảnh rò rỉ Spice Android One Dream UNO Mi-498</title>
+      <description><![CDATA[<a href="http://sohoa.vnexpress.net/photo/anh-video/anh-ro-ri-spice-android-one-dream-uno-mi-498-3079615.html"><img width=130 height=100 src="http://s.f5.img.vnexpress.net/2014/09/15/1-spice-android-one-dream-uno-mi-498-copy-1410752038_180x108.jpg" ></a></br>Dream UNO Mi-498 được trang bị lý bốn nhân, RAM 1 GB, màn hình 4,5 inch và chạy bản Android KitKat 4.4.4.]]></description>
+      <pubDate>Mon, 15 Sep 2014 11:31:31 +0700</pubDate>
+      <link>http://sohoa.vnexpress.net/photo/anh-video/anh-ro-ri-spice-android-one-dream-uno-mi-498-3079615.html</link>
+      <guid>http://sohoa.vnexpress.net/photo/anh-video/anh-ro-ri-spice-android-one-dream-uno-mi-498-3079615.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Hàng trăm người xếp hàng mua smartphone của Pháp</title>
+      <description><![CDATA[<a href="http://sohoa.vnexpress.net/photo/doi-song-so/hang-tram-nguoi-xep-hang-mua-smartphone-cua-phap-3079182.html"><img width=130 height=100 src="http://s.f8.img.vnexpress.net/2014/09/13/w5-1410621211_180x108.jpg" ></a></br>Trong vòng 3h đã có 300 chiếc smartphone đến tay người dùng với mức giá giảm  40%, một nửa trong số đó được hãng điện thoại Pháp Wiko bán tại Hà Nội]]></description>
+      <pubDate>Mon, 15 Sep 2014 08:44:00 +0700</pubDate>
+      <link>http://sohoa.vnexpress.net/photo/doi-song-so/hang-tram-nguoi-xep-hang-mua-smartphone-cua-phap-3079182.html</link>
+      <guid>http://sohoa.vnexpress.net/photo/doi-song-so/hang-tram-nguoi-xep-hang-mua-smartphone-cua-phap-3079182.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Mobell ra mắt smartphone chạy Windows Phone 8.1</title>
+      <description><![CDATA[<a href="http://sohoa.vnexpress.net/tin-tuc/san-pham/dien-thoai/mobell-ra-mat-smartphone-chay-windows-phone-8-1-3078607.html"><img width=130 height=100 src="http://s.f8.img.vnexpress.net/2014/09/14/1-jpg-12-9-20144-931401902-4590-1410670853_180x108.jpeg" ></a></br>Nova Windows hoạt động trên nền tảng chạy hệ điều hành Windows Phone 8.1 với thiết kế mang phong cách trẻ trung, giá dưới 3 triệu đồng.]]></description>
+      <pubDate>Mon, 15 Sep 2014 08:00:00 +0700</pubDate>
+      <link>http://sohoa.vnexpress.net/tin-tuc/san-pham/dien-thoai/mobell-ra-mat-smartphone-chay-windows-phone-8-1-3078607.html</link>
+      <guid>http://sohoa.vnexpress.net/tin-tuc/san-pham/dien-thoai/mobell-ra-mat-smartphone-chay-windows-phone-8-1-3078607.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Video các tình huống oái oăm của bác sĩ hot nhất Internet tuần qua</title>
+      <description><![CDATA[<a href="http://sohoa.vnexpress.net/tin-tuc/doi-song-so/giai-tri/video-cac-tinh-huong-oai-oam-cua-bac-si-hot-nhat-internet-tuan-qua-3079163.html"><img width=130 height=100 src="http://s.f7.img.vnexpress.net/2014/09/13/video-11-4362-1410617571_180x108.png" ></a></br>Clip hài mô tả những cảnh dở khóc dở cười mà các bác sĩ, y tá thường gặp phải. Tuần từ 7/9 đến 13/9 còn một số video nhiều người xem như cô gái bị đánh vì đỗ xe nhầm chỗ, người phụ nữ được cứu khỏi dòng nước cuốn...]]></description>
+      <pubDate>Sun, 14 Sep 2014 00:00:00 +0700</pubDate>
+      <link>http://sohoa.vnexpress.net/tin-tuc/doi-song-so/giai-tri/video-cac-tinh-huong-oai-oam-cua-bac-si-hot-nhat-internet-tuan-qua-3079163.html</link>
+      <guid>http://sohoa.vnexpress.net/tin-tuc/doi-song-so/giai-tri/video-cac-tinh-huong-oai-oam-cua-bac-si-hot-nhat-internet-tuan-qua-3079163.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Di động tầm trung chụp ảnh 16 'chấm', màn hình Full HD</title>
+      <description><![CDATA[<a href="http://sohoa.vnexpress.net/tin-tuc/san-pham/dien-thoai/di-dong-tam-trung-chup-anh-16-cham-man-hinh-full-hd-3079344.html"><img width=130 height=100 src="http://s.f7.img.vnexpress.net/2014/09/14/wiko-1936-1410686786_180x108.jpg" ></a></br>Wiko Highway 4G có cấu hình tốt với vi xử lý lõi tứ của Nvidia, RAM 2 GB, cùng camera trước tới 8 megapixel và camera phía sau 16 megapixel.]]></description>
+      <pubDate>Sun, 14 Sep 2014 16:26:57 +0700</pubDate>
+      <link>http://sohoa.vnexpress.net/tin-tuc/san-pham/dien-thoai/di-dong-tam-trung-chup-anh-16-cham-man-hinh-full-hd-3079344.html</link>
+      <guid>http://sohoa.vnexpress.net/tin-tuc/san-pham/dien-thoai/di-dong-tam-trung-chup-anh-16-cham-man-hinh-full-hd-3079344.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Ảnh thực tế Wiko Highway 4G có camera 16 megapixel</title>
+      <description><![CDATA[<a href="http://sohoa.vnexpress.net/photo/dien-thoai/anh-thuc-te-wiko-highway-4g-co-camera-16-megapixel-3079343.html"><img width=130 height=100 src="http://s.f5.img.vnexpress.net/2014/09/14/DSCF3726-1410685218_180x108.jpg" ></a></br>Di động của Wiko có mức giá tầm trung nhưng sở hữu camera độ phân giải cao, chất lượng hình ảnh chụp tốt đi kèm là cấu hình mạnh.]]></description>
+      <pubDate>Sun, 14 Sep 2014 16:06:25 +0700</pubDate>
+      <link>http://sohoa.vnexpress.net/photo/dien-thoai/anh-thuc-te-wiko-highway-4g-co-camera-16-megapixel-3079343.html</link>
+      <guid>http://sohoa.vnexpress.net/photo/dien-thoai/anh-thuc-te-wiko-highway-4g-co-camera-16-megapixel-3079343.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Apple ngừng bán máy nghe nhạc iPod Classic</title>
+      <description><![CDATA[<a href="http://sohoa.vnexpress.net/tin-tuc/san-pham/do-choi-so/apple-ngung-ban-may-nghe-nhac-ipod-classic-3078955.html"><img width=130 height=100 src="http://s.f8.img.vnexpress.net/2014/09/13/IPod-classic-6G-80GB-packaging-2064-7204-1410576286_180x108.jpg" ></a></br>Mẫu máy nghe nhạc đình đám cũng là thiết bị vô cùng thành công của Apple đã được hãng loại bỏ trên trang bán hàng, kết thúc vòng đời 13 năm kể từ ngày ra mắt.]]></description>
+      <pubDate>Sun, 14 Sep 2014 11:31:50 +0700</pubDate>
+      <link>http://sohoa.vnexpress.net/tin-tuc/san-pham/do-choi-so/apple-ngung-ban-may-nghe-nhac-ipod-classic-3078955.html</link>
+      <guid>http://sohoa.vnexpress.net/tin-tuc/san-pham/do-choi-so/apple-ngung-ban-may-nghe-nhac-ipod-classic-3078955.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Ảnh Sony Alpha A5100 giá 16 triệu đồng ở Việt Nam</title>
+      <description><![CDATA[<a href="http://sohoa.vnexpress.net/photo/may-anh/anh-sony-alpha-a5100-gia-16-trieu-dong-o-viet-nam-3079089.html"><img width=130 height=100 src="http://s.f6.img.vnexpress.net/2014/09/13/DSC00309-1410583716_180x108.jpg" ></a></br>A5100 là máy ảnh sử dụng cảm biến APS-C tích hợp flash nhỏ nhất thế giới hiện nay với cân nặng chỉ 283 gram.]]></description>
+      <pubDate>Sun, 14 Sep 2014 11:29:15 +0700</pubDate>
+      <link>http://sohoa.vnexpress.net/photo/may-anh/anh-sony-alpha-a5100-gia-16-trieu-dong-o-viet-nam-3079089.html</link>
+      <guid>http://sohoa.vnexpress.net/photo/may-anh/anh-sony-alpha-a5100-gia-16-trieu-dong-o-viet-nam-3079089.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>iPhone 6 hàng 'xách tay' ở Việt Nam bị loạn giá</title>
+      <description><![CDATA[<a href="http://sohoa.vnexpress.net/tin-tuc/san-pham/dien-thoai/iphone-6-hang-xach-tay-o-viet-nam-bi-loan-gia-3078966.html"><img width=130 height=100 src="http://s.f6.img.vnexpress.net/2014/09/13/iphone-6-iphone-6-plus-white-h-8461-7350-1410583670_180x108.jpg" ></a></br>Dù mới cho đặt hàng ở nước ngoài và còn chưa được Apple mở bán chính thức, nhiều nơi ở Việt Nam đã bắt đầu nhận đặt hàng, thậm chí, có chỗ còn đưa giá gấp đôi mức niêm yết.]]></description>
+      <pubDate>Sat, 13 Sep 2014 11:54:30 +0700</pubDate>
+      <link>http://sohoa.vnexpress.net/tin-tuc/san-pham/dien-thoai/iphone-6-hang-xach-tay-o-viet-nam-bi-loan-gia-3078966.html</link>
+      <guid>http://sohoa.vnexpress.net/tin-tuc/san-pham/dien-thoai/iphone-6-hang-xach-tay-o-viet-nam-bi-loan-gia-3078966.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>iPhone 6 vừa cho đặt trước đã hết hàng</title>
+      <description><![CDATA[<a href="http://sohoa.vnexpress.net/tin-tuc/san-pham/dien-thoai/iphone-6-vua-cho-dat-truoc-da-het-hang-3078895.html"><img width=130 height=100 src="http://s.f7.img.vnexpress.net/2014/09/13/6bc4624587f588043c3aa8a8cbcbed-1530-4816-1410573208_180x108.png" ></a></br>Dù lịch bán ra là 19/9 nhưng người dùng đặt iPhone 6 Plus phải chờ từ 3 đến 4 tuần mới nhận được máy trong khi đó iPhone 6 bản 64 GB, 128 GB là từ 7 đến 10 ngày.]]></description>
+      <pubDate>Sat, 13 Sep 2014 09:17:52 +0700</pubDate>
+      <link>http://sohoa.vnexpress.net/tin-tuc/san-pham/dien-thoai/iphone-6-vua-cho-dat-truoc-da-het-hang-3078895.html</link>
+      <guid>http://sohoa.vnexpress.net/tin-tuc/san-pham/dien-thoai/iphone-6-vua-cho-dat-truoc-da-het-hang-3078895.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Leica MP về Việt Nam giá gần 190 triệu đồng</title>
+      <description><![CDATA[<a href="http://sohoa.vnexpress.net/tin-tuc/san-pham/may-anh/leica-mp-ve-viet-nam-gia-gan-190-trieu-dong-3078903.html"><img width=130 height=100 src="http://s.f7.img.vnexpress.net/2014/09/13/leica-top-5914-1410572764_180x108.jpg" ></a></br>Mẫu máy ảnh cao cấp của Leica có mặt kính màn hình phía sau làm bằng sapphire cùng bộ nhớ đệm lên tới 2 GB giúp chụp trong các tình huống đặc biệt nhanh hơn. ]]></description>
+      <pubDate>Sat, 13 Sep 2014 10:02:51 +0700</pubDate>
+      <link>http://sohoa.vnexpress.net/tin-tuc/san-pham/may-anh/leica-mp-ve-viet-nam-gia-gan-190-trieu-dong-3078903.html</link>
+      <guid>http://sohoa.vnexpress.net/tin-tuc/san-pham/may-anh/leica-mp-ve-viet-nam-gia-gan-190-trieu-dong-3078903.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Video công nghệ nổi bật: iLine 'đột phá' hơn cả iPhone 6</title>
+      <description><![CDATA[<a href="http://sohoa.vnexpress.net/tin-tuc/doi-song-so/giai-tri/video-cong-nghe-noi-bat-iline-dot-pha-hon-ca-iphone-6-3078705.html"><img width=130 height=100 src="http://s.f8.img.vnexpress.net/2014/09/12/tech-1-6673-1410513607_180x108.jpg" ></a></br>Danh hài Jimmy Kimmel chế giễu người xếp hàng mua iPhone 6 bằng video mô tả việc Apple cho nhân viên ra đứng hàng đầu và nếu ai muốn đứng ở vị trí đó, họ phải trả tiền cho Apple.]]></description>
+      <pubDate>Sat, 13 Sep 2014 00:00:00 +0700</pubDate>
+      <link>http://sohoa.vnexpress.net/tin-tuc/doi-song-so/giai-tri/video-cong-nghe-noi-bat-iline-dot-pha-hon-ca-iphone-6-3078705.html</link>
+      <guid>http://sohoa.vnexpress.net/tin-tuc/doi-song-so/giai-tri/video-cong-nghe-noi-bat-iline-dot-pha-hon-ca-iphone-6-3078705.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>HTC sắp ra điện thoại selfie và camera chống nước</title>
+      <description><![CDATA[<a href="http://sohoa.vnexpress.net/tin-tuc/san-pham/dien-thoai/htc-sap-ra-dien-thoai-selfie-va-camera-chong-nuoc-3078872.html"><img width=130 height=100 src="http://s.f5.img.vnexpress.net/2014/09/13/htc-invite-0_1410572239_180x108.jpg" ></a></br>Dù mới giới thiệu Desire 820 tại IFA 2014, HTC lại chuẩn bị có một sự kiện lớn diễn ra ở Mỹ vào tháng 10 để trình làng một số sản phẩm mới.]]></description>
+      <pubDate>Sat, 13 Sep 2014 14:00:00 +0700</pubDate>
+      <link>http://sohoa.vnexpress.net/tin-tuc/san-pham/dien-thoai/htc-sap-ra-dien-thoai-selfie-va-camera-chong-nuoc-3078872.html</link>
+      <guid>http://sohoa.vnexpress.net/tin-tuc/san-pham/dien-thoai/htc-sap-ra-dien-thoai-selfie-va-camera-chong-nuoc-3078872.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Viber hỗ trợ gọi video call trên điện thoại</title>
+      <description><![CDATA[<a href="http://sohoa.vnexpress.net/tin-tuc/doi-song-so/viber-ho-tro-goi-video-call-tren-dien-thoai-3078948.html"><img width=130 height=100 src="http://s.f7.img.vnexpress.net/2014/09/13/h1-jpg-12-9-201443-6239-1410576785_180x108.jpeg" ></a></br>Phiên bản Viber 5.0 trên Android và iOS được cập nhật tính năng video call, kết bạn qua mã QR bên cạnh nhiều cải tiến về giao diện thiết kế.]]></description>
+      <pubDate>Sat, 13 Sep 2014 10:00:00 +0700</pubDate>
+      <link>http://sohoa.vnexpress.net/tin-tuc/doi-song-so/viber-ho-tro-goi-video-call-tren-dien-thoai-3078948.html</link>
+      <guid>http://sohoa.vnexpress.net/tin-tuc/doi-song-so/viber-ho-tro-goi-video-call-tren-dien-thoai-3078948.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Nên mua iPad 4 hay iPad Air?</title>
+      <description><![CDATA[<a href="http://sohoa.vnexpress.net/tin-tuc/cong-dong/hoi-dap/nen-mua-ipad-4-hay-ipad-air-3078894.html"><img width=130 height=100 src="http://s.f5.img.vnexpress.net/2014/09/13/britain-us-apple-ipad-jr207-38-6620-9940-1410572418_180x108.jpg" ></a></br>Mình dành dụm được số tiền khoảng 12 triệu đồng. Mọi người cho ý kiến.]]></description>
+      <pubDate>Sat, 13 Sep 2014 08:40:18 +0700</pubDate>
+      <link>http://sohoa.vnexpress.net/tin-tuc/cong-dong/hoi-dap/nen-mua-ipad-4-hay-ipad-air-3078894.html</link>
+      <guid>http://sohoa.vnexpress.net/tin-tuc/cong-dong/hoi-dap/nen-mua-ipad-4-hay-ipad-air-3078894.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Việt Nam đứng thứ 3 thế giới về xem video trực tuyến</title>
+      <description><![CDATA[<a href="http://sohoa.vnexpress.net/tin-tuc/doi-song-so/viet-nam-dung-thu-3-the-gioi-ve-xem-video-truc-tuyen-3078573.html"><img width=130 height=100 src="http://s.f27.img.vnecdn.net/2014/09/12/smartphonefinal-1410504926_180x108.jpg" ></a></br>Google vừa công bố kết quả nghiên cứu về hành vi trực tuyến của người tiêu dùng  năm 2014, trong đó Việt Nam đứng thứ 3 thế giới về tỷ lệ người xem video trực tuyến.]]></description>
+      <pubDate>Sat, 13 Sep 2014 08:36:13 +0700</pubDate>
+      <link>http://sohoa.vnexpress.net/tin-tuc/doi-song-so/viet-nam-dung-thu-3-the-gioi-ve-xem-video-truc-tuyen-3078573.html</link>
+      <guid>http://sohoa.vnexpress.net/tin-tuc/doi-song-so/viet-nam-dung-thu-3-the-gioi-ve-xem-video-truc-tuyen-3078573.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Ảnh thực tế Leica MP tại Việt Nam</title>
+      <description><![CDATA[<a href="http://sohoa.vnexpress.net/photo/may-anh/anh-thuc-te-leica-mp-tai-viet-nam-3078907.html"><img width=130 height=100 src="http://s.f8.img.vnexpress.net/2014/09/13/DSCF3571-1410572819_180x108.jpg" ></a></br>Leica MP không còn logo Leica màu đỏ phía trước cùng  trang bị mặt kính sapphire đáng giá cho màn hình LCD.]]></description>
+      <pubDate>Sat, 13 Sep 2014 10:01:23 +0700</pubDate>
+      <link>http://sohoa.vnexpress.net/photo/may-anh/anh-thuc-te-leica-mp-tai-viet-nam-3078907.html</link>
+      <guid>http://sohoa.vnexpress.net/photo/may-anh/anh-thuc-te-leica-mp-tai-viet-nam-3078907.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Bộ đôi iPhone 6 xuất hiện ở Việt Nam</title>
+      <description><![CDATA[<a href="http://sohoa.vnexpress.net/photo/dien-thoai/bo-doi-iphone-6-xuat-hien-o-viet-nam-3078793.html"><img width=130 height=100 src="http://s.f8.img.vnexpress.net/2014/09/12/iPhone-6-11-1410520146_180x108.jpg" ></a></br>Một số mẫu iPhone 6 và 6 Plus màn hình lớn đã có mặt ở Hà Nội, trong khi phải tới 19/9 Apple mới bán ra chính thức.]]></description>
+      <pubDate>Fri, 12 Sep 2014 18:20:10 +0700</pubDate>
+      <link>http://sohoa.vnexpress.net/photo/dien-thoai/bo-doi-iphone-6-xuat-hien-o-viet-nam-3078793.html</link>
+      <guid>http://sohoa.vnexpress.net/photo/dien-thoai/bo-doi-iphone-6-xuat-hien-o-viet-nam-3078793.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Sony Xperia Z3 Compact có giá 13,99 triệu đồng ở Việt Nam</title>
+      <description><![CDATA[<a href="http://sohoa.vnexpress.net/tin-tuc/san-pham/dien-thoai/sony-xperia-z3-compact-co-gia-13-99-trieu-dong-o-viet-nam-3078671.html"><img width=130 height=100 src="http://s.f5.img.vnexpress.net/2014/09/12/Xperia-Z3-Compact-Z3-2246-1410511283_180x108.jpg" ></a></br>Xperia Z3 Compact là smartphone có ngoại hình nhỏ gọn với màn hình 4,6 inch, nhưng cấu hình mạnh mẽ đi kèm camera cao cấp 20,7 megapixel giống Xperia Z3.]]></description>
+      <pubDate>Fri, 12 Sep 2014 15:55:16 +0700</pubDate>
+      <link>http://sohoa.vnexpress.net/tin-tuc/san-pham/dien-thoai/sony-xperia-z3-compact-co-gia-13-99-trieu-dong-o-viet-nam-3078671.html</link>
+      <guid>http://sohoa.vnexpress.net/tin-tuc/san-pham/dien-thoai/sony-xperia-z3-compact-co-gia-13-99-trieu-dong-o-viet-nam-3078671.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Người hâm mộ ở nhiều nước xếp hàng mua iPhone</title>
+      <description><![CDATA[<a href="http://sohoa.vnexpress.net/photo/doi-song-so/nguoi-ham-mo-o-nhieu-nuoc-xep-hang-mua-iphone-3078553.html"><img width=130 height=100 src="http://s.f6.img.vnexpress.net/2014/09/12/xep-hang-1-1410496087_180x108.jpg" ></a></br>Không chỉ ở Mỹ, nhiều người ở các nước khác như Anh, Nhật... đã xếp hàng, bất chấp sự thay đổi của thời tiết, để mua iPhone dù ngày 19/9 sản phẩm mới được bán ra.]]></description>
+      <pubDate>Fri, 12 Sep 2014 11:53:41 +0700</pubDate>
+      <link>http://sohoa.vnexpress.net/photo/doi-song-so/nguoi-ham-mo-o-nhieu-nuoc-xep-hang-mua-iphone-3078553.html</link>
+      <guid>http://sohoa.vnexpress.net/photo/doi-song-so/nguoi-ham-mo-o-nhieu-nuoc-xep-hang-mua-iphone-3078553.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Chỉ 10 triệu iPhone 6 và 6 Plus được xuất xưởng tháng 9</title>
+      <description><![CDATA[<a href="http://sohoa.vnexpress.net/tin-tuc/doi-song-so/thi-truong/chi-10-trieu-iphone-6-va-6-plus-duoc-xuat-xuong-thang-9-3078495.html"><img width=130 height=100 src="http://s.f5.img.vnexpress.net/2014/09/12/phone-3610-1410493946_180x108.jpg" ></a></br>Con số này được dự đoán là sẽ không thể đáp ứng đủ nhu cầu cao của người sử dụng khi bộ đôi iPhone thế hệ mới được bán ra.]]></description>
+      <pubDate>Fri, 12 Sep 2014 10:53:29 +0700</pubDate>
+      <link>http://sohoa.vnexpress.net/tin-tuc/doi-song-so/thi-truong/chi-10-trieu-iphone-6-va-6-plus-duoc-xuat-xuong-thang-9-3078495.html</link>
+      <guid>http://sohoa.vnexpress.net/tin-tuc/doi-song-so/thi-truong/chi-10-trieu-iphone-6-va-6-plus-duoc-xuat-xuong-thang-9-3078495.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Intel bán máy tính để bàn NUC giá ưu đãi</title>
+      <description><![CDATA[<a href="http://sohoa.vnexpress.net/tin-tuc/doi-song-so/intel-ban-may-tinh-de-ban-nuc-gia-uu-dai-3078582.html"><img width=130 height=100 src="http://s.f8.img.vnexpress.net/2014/09/12/h3-jpg-12-9-20145-308484020-3235-1410507322_180x108.jpeg" ></a></br>Khi mua bộ sản phẩm máy tính NUC từ các đại lý ủy quyền của Intel, khách hàng được nhận thẻ cào điện thoại 300.000 đồng từ ngày 10/9 đến 15/10.]]></description>
+      <pubDate>Fri, 12 Sep 2014 15:00:00 +0700</pubDate>
+      <link>http://sohoa.vnexpress.net/tin-tuc/doi-song-so/intel-ban-may-tinh-de-ban-nuc-gia-uu-dai-3078582.html</link>
+      <guid>http://sohoa.vnexpress.net/tin-tuc/doi-song-so/intel-ban-may-tinh-de-ban-nuc-gia-uu-dai-3078582.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Ống kính 50-140 mm chịu thời tiết khắc nghiệt của Fujifilm</title>
+      <description><![CDATA[<a href="http://sohoa.vnexpress.net/tin-tuc/san-pham/may-anh/ong-kinh-50-140-mm-chiu-thoi-tiet-khac-nghiet-cua-fujifilm-3078468.html"><img width=130 height=100 src="http://s.f6.img.vnexpress.net/2014/09/12/f-2889-1410494914_180x108.jpg" ></a></br>Sản phẩm tích hợp hệ thống chống rung quang học kép cho phép hạn chế tới 5 bước theo chuẩn CIPA. ]]></description>
+      <pubDate>Fri, 12 Sep 2014 14:09:57 +0700</pubDate>
+      <link>http://sohoa.vnexpress.net/tin-tuc/san-pham/may-anh/ong-kinh-50-140-mm-chiu-thoi-tiet-khac-nghiet-cua-fujifilm-3078468.html</link>
+      <guid>http://sohoa.vnexpress.net/tin-tuc/san-pham/may-anh/ong-kinh-50-140-mm-chiu-thoi-tiet-khac-nghiet-cua-fujifilm-3078468.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+  </channel>
+</rss>
